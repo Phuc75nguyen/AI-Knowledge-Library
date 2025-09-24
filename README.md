@@ -1,2 +1,2 @@
-# Hi, I'm Phuc! I'm working as an AI Engineer.
+# Hi, I'm Phuc! I'm working as an AI Application Executive.
 ## This repo includes news, papers, and AI trends in Vietnam and the world! 
